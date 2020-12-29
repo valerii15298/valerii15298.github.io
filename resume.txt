@@ -1,0 +1,99 @@
+Valerii Petryniak
+Ukraine, Kyiv
+    Full Stack Engineer
+        valerii15298@gmail.com
+
+I am a confident, extra fast-learning, kind, open-hearted, smart and sometimes shy person with big passion for making great things.
+I am not working only to finish tasks, but trying to do more: explore environment, find best strategy, discover wonderful and simple solutions,
+propose creative ideas and methods to achieve goals in a better way with higher results.
+All the time I used to learn something new for me: new programming language, technology, API, platform and so on.
+I very like to speak, communicate with people(especially with new ones), discuss interesting topics, understand things in a deeper level and play in a team.
+I set most hard goals for myself, in areas in which I am not good.
+
+My best skills are
+    researching, retrieving and exploring information,
+    diving deeper into the problem area to find solution(not only in programming, but also in other areas),
+    create clean, simple, maintainable and beautiful code, design robust architecture of program.
+
+Ready to quickly learn and use new technologies.
+I am watching YouTube video, take a look at the official documentation or reading article to study new thing.
+It can take few hours for me to quickly learn, start using, and build something with new programming language or framework.
+
+I believe that programming language and technologies do not matter much.
+But what matter is
+    how do we think,
+    how do we perceive, handle and treat information
+    how do we deeply understand "things"(e. g. principles, logic, how it works)
+    how do we make choices
+And with these skills we can learn any programming language or technology or anything else and use it.
+
+Skills:
+    Software architecture design
+    Patterns (SOLID, KISS, YAGNI, DRY, MVC)
+    Programming languages:
+        JavaScript (EcmaScript 2020, TypeScript, React.js, Node.js, Express.js, Puppeteer)
+        HTML
+        CSS
+        Python (Tkinter, Selenium)
+        SQL (General SQL syntax: MySQL, PostgreSQL)
+        NoSQL (MongoDB, DynamoDB)
+        PHP (Laravel, Wordpress)
+        C (GTK)
+        Pascal
+        Shell(Bash, Zsh)
+    Cloud(GCP, AWS)
+    Linux(Ubuntu)
+    DevOps(CI/CD, Jenkins)
+    REST/GraphQL API services, HTTP
+    Application deployment(Hosting, servers configuration(Apache, Nginx))
+    Java, C#, C++, Swift - Basic level
+    Math
+    Algorithms
+
+Hobbies:
+    solving Rubik`s cube
+    chess
+    checkers
+    workout
+    running
+    dancing shuffle
+    spend time with friends and do things for fun
+
+
+Experience:
+    Company: "DYISY GROUP LIMITED"
+        Developing framework, for automation of routine tasks and processes
+        Back-end/Front-end development
+        Automate processes, automation testing(proposed and implemented some ideas)
+        Deploying websites
+        Configure servers
+        Integrate with different APIs(Google APIs, Soldo business APIs, Multilogin, Monday API and others)
+        Databases(management/administration/integration)
+
+
+Education:
+    Taras Shevchenko National University of Kyiv,
+    Faculty of information technology,
+        Software Engineering, 2018-2019
+        Computer Networking and Telecommunications, 2020-Present
+
+    Ucode It academy, 2019-Present
+        Learning C developmnet and front-end development, creating projects in team.
+
+    Biloberizka Secondary School
+        Participated in state/country level olympiads(Math, Physics, Chemistry, Informatics) and very often ranked first.
+
+Languages:
+English: Upper-Intermediate
+Ukraininan: Native
+Russian: Native
+
+Links:
+GitHub: https://github.com/valerii15298
+LinkedIn: https://www.linkedin.com/in/valerii15298/
+Upwork: https://www.upwork.com/freelancers/~013d4d3580ba6ecde3
+
+Contacts:
+Phone: +380969711769
+Email: valerii15298@gmail.com
+Telegram: @valerii15298

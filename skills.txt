@@ -1,0 +1,69 @@
+Software engineering:
+    Software design patterns:
+        SOLID
+        KISS
+        YAGNI
+        DRY
+        MVC
+    API building/integration:
+        REST
+        GraphQL:
+            Apollo
+    Abstract algebra
+    Math
+    Algorithms theory
+
+Web:
+    Back end:
+        Databases
+        Node.js
+        Express.js
+        Laravel
+        Web servers:
+            Apache
+            Nginx:
+    Front end:
+        React.js
+        HTML
+        CSS
+        JavaScript
+        TypeScript
+        GTK
+
+Programming languages:
+    JavaScript
+    TypeScript
+    Python
+    PHP
+    C
+    Java, C#, C++ - basic knowledge
+
+Databases:
+    SQL:
+        MySQL
+        PostgreSQL
+    NoSQL:
+        MongoDB
+        DynamoDB
+        Firestore
+
+Frameworks:
+    Express.js
+    React.js
+    Puppeteer.js
+    Laravel
+    Tkinter
+    Selenium
+    GTK
+
+DevOps:
+    Cloud platforms:
+        GCP
+        AWS
+    *NIX
+        Linux
+        Bash
+        Zsh
+    CI/CD:
+        Jenkins
+
