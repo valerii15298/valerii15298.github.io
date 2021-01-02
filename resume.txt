@@ -27,28 +27,6 @@ But what matter is
     how do we make choices
 And with these skills we can learn any programming language or technology or anything else and use it.
 
-Skills:
-    Software architecture design
-    Patterns (SOLID, KISS, YAGNI, DRY, MVC)
-    Programming languages:
-        JavaScript (EcmaScript 2020, TypeScript, React.js, Node.js, Express.js, Puppeteer)
-        HTML
-        CSS
-        Python (Tkinter, Selenium)
-        SQL (General SQL syntax: MySQL, PostgreSQL)
-        NoSQL (MongoDB, DynamoDB)
-        PHP (Laravel, Wordpress)
-        C (GTK)
-        Pascal
-        Shell(Bash, Zsh)
-    Cloud(GCP, AWS)
-    Linux(Ubuntu)
-    DevOps(CI/CD, Jenkins)
-    REST/GraphQL API services, HTTP
-    Application deployment(Hosting, servers configuration(Apache, Nginx))
-    Java, C#, C++, Swift - Basic level
-    Math
-    Algorithms
 
 Hobbies:
     solving Rubik`s cube

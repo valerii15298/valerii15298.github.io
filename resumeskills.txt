@@ -1,6 +1,6 @@
 Software engineering:
     Software design patterns: SOLID, KISS, YAGNI, DRY, MVC
-    API building/integration: REST, GraphQL(Apollo server/client)
+    API building/integration: REST, GraphQL(Apollo)
     Abstract algebra, Math, Algorithms theory
 
 Back end: Node.js(Express.js), HTTP, Web servers(Apache, Nginx)
@@ -17,7 +17,7 @@ Databases:
     SQL(MySQL, PostgreSQL),
     NoSQL(MongoDB, DynamoDB, Firestore)
 
-Frameworks/Libraries: Puppeteer.js, Laravel, Tkinter, Selenium, GTK
+Frameworks/Libraries: Puppeteer.js, , Tkinter, Selenium, GTK
 
 DevOps:
     Cloud platforms:
