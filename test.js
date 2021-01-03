@@ -1,4 +1,4 @@
-const skills = document.querySelector('#skills div > ul');
+const skills = document.querySelector('#hard-skills div > ul');
 
 // Skill elements
 
@@ -287,3 +287,8 @@ displayElements(rootElements, skills);
 // }
 
 // displayElements(rootElements);
+
+const actualHeaderHeight = document.getElementById('self-photo').offsetHeight.toString() + 'px';
+document.getElementById('self-photo').hidden = true;
+document.getElementById('header').style.height = actualHeaderHeight;
+document.getElementById('header-content').style.height = actualHeaderHeight;
