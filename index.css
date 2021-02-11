@@ -42,10 +42,31 @@ table {
     border-spacing: 0;
 }
 
+ul, ol {
+    list-style: none;
+}
+
+
+
+
+
+/*My styles*/
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+
+main, footer {
+    display: none;
+}
+
 
 #name {
-    font-size: 70px;
-    padding: 20px;
 }
 
 #self-photo {
@@ -63,20 +84,17 @@ table {
     margin: auto;
     left: 0;
     right: 0;
-    bottom: 4%;
+    top: 4%;
+    /*bottom: 4%;*/
     width: 50%;
     height: fit-content;
     /*font-size: 40px;*/
-    color: aqua;
 }
 
 #header-content {
-    width: 700px;
-    /*height: 180px;*/
-    padding: 10px;
     border-radius: 20px;
-    color: #fff;
-    font-size: 38px;
+    color: white;
+    font-size: 18px;
     background: rgba(255,255,255,0.1);
     box-shadow: 10px 10px 20px -10px rgba(255, 255, 255, 0.2);
     border-right: 1px solid rgba(255,255,255,0.2);
@@ -87,12 +105,10 @@ table {
 
 
 body > header {
-    position: relative;
+    position: absolute;
 }
 
-ul, ol {
-    list-style: none;
-}
+
 
 /*#name {*/
 /*    color: red;*/
