@@ -84,17 +84,16 @@ main, footer {
     margin: auto;
     left: 0;
     right: 0;
-    top: 4%;
-    /*bottom: 4%;*/
-    width: 50%;
+    bottom: 4%;
     height: fit-content;
-    /*font-size: 40px;*/
+    font-size: 220%;
+    width: 40%;
+    padding: 3%;
 }
 
 #header-content {
     border-radius: 20px;
     color: white;
-    font-size: 18px;
     background: rgba(255,255,255,0.1);
     box-shadow: 10px 10px 20px -10px rgba(255, 255, 255, 0.2);
     border-right: 1px solid rgba(255,255,255,0.2);
