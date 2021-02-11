@@ -87,7 +87,7 @@ main, footer {
     bottom: 4%;
     height: fit-content;
     font-size: 220%;
-    width: 40%;
+    width: fit-content;
     padding: 3%;
 }
 
