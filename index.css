@@ -14,7 +14,7 @@ time, mark, audio, video {
     margin: 0;
     padding: 0;
     border: 0;
-    font-size: 100%;
+    /*font-size: 100%;*/
     font: inherit;
     vertical-align: baseline;
 }
@@ -56,10 +56,10 @@ ul, ol {
 /*My styles*/
 
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    /*height: 100vh;*/
     background: url("assets/background.jpg");
 }
 
@@ -70,6 +70,8 @@ main, footer {
 
 
 #name {
+    font-size: 130%;
+    margin-bottom: 5%;
 }
 
 #self-photo {
@@ -79,25 +81,31 @@ main, footer {
     margin-right: auto;
     width: 90%;
     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
-    border: 1px solid rgba(255, 255, 255, 0.18);
 }
 
 #header-content {
+    bottom: -6%;
+}
+
+#hello {
+    bottom: -30%;
+}
+
+.card {
     text-align: center;
-    /*border: solid blue;*/
     position: absolute;
+
     margin: auto;
     left: 0;
     right: 0;
-    bottom: 4%;
-    height: fit-content;
-    font-size: 220%;
-    width: fit-content;
-    padding: 3%;
-}
 
-#header-content {
-    border-radius: 20px;
+
+    width: fit-content;
+    height: fit-content;
+
+    padding: 3%;
+
+    border-radius: 57px;
     color: #cdeafb;
     background: rgba(0, 0, 0, 0.4);
     box-shadow: 10px 10px 20px -10px rgba(255, 255, 255, 0.2);
@@ -105,14 +113,13 @@ main, footer {
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(10px);
     transition: .5s ease;
-    /*border: 1px solid rgba( 255, 255, 255, 0.18 );*/
-
-
 }
 
 
 body > header {
     position: absolute;
+    top: 10%;
+    font-size: 300%;
 }
 
 
