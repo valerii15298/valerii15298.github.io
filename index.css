@@ -1,5 +1,51 @@
-body > * {
-    /*text-align: center;*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+#name {
+    font-size: 70px;
+    padding: 20px;
 }
 
 #self-photo {
@@ -11,25 +57,26 @@ body > * {
 }
 
 #header-content {
+    text-align: center;
     /*border: solid blue;*/
     position: absolute;
     margin: auto;
     left: 0;
     right: 0;
-    bottom: 0;
-    width: fit-content;
+    bottom: 4%;
+    width: 50%;
     height: fit-content;
-    font-size: 40px;
+    /*font-size: 40px;*/
     color: aqua;
 }
 
 #header-content {
-    width: 300px;
-    height: 180px;
+    width: 700px;
+    /*height: 180px;*/
     padding: 10px;
     border-radius: 20px;
     color: #fff;
-    font-size: 18px;
+    font-size: 38px;
     background: rgba(255,255,255,0.1);
     box-shadow: 10px 10px 20px -10px rgba(255, 255, 255, 0.2);
     border-right: 1px solid rgba(255,255,255,0.2);
