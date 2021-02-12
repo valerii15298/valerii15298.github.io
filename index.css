@@ -55,20 +55,35 @@ ul, ol {
 
 /*My styles*/
 
-#contacts ul {
-    display: inline-flex;
-    flex-wrap: nowrap;
-    justify-content: left;
-}
 
-#contacts img {
-    width: 100px;
-}
+
 
 
 
 
 @media screen and (max-width: 70em) {
+    #contacts ul {
+        display: flex;
+        flex-wrap: nowrap;
+        /*justify-content: lef;*/
+    }
+
+    #contacts img {
+        width: 100px;
+    }
+
+    footer {
+        display: flex;
+        position: absolute;
+        bottom: 1%;
+        justify-content: space-between;
+        width: 100%;
+        align-items: center;
+        padding: 2%;
+    }
+    #languages {
+        height: fit-content;
+    }
     body {
         /*display: flex;*/
         /*justify-content: center;*/
@@ -76,10 +91,11 @@ ul, ol {
         /*height: 100vh;*/
         background: url("assets/background.jpg") no-repeat fixed;
         background-size: 100vw 100vh;
+        width: 100vw;
     }
 
 
-    main, footer {
+    main {
         display: none;
     }
 
