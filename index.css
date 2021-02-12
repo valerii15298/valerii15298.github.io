@@ -57,7 +57,7 @@ ul, ol {
 
 
 
-@media (max-width: 500px) {
+@media screen {
     body {
         /*display: flex;*/
         /*justify-content: center;*/
