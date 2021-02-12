@@ -53,7 +53,11 @@ ul, ol {
 }
 
 
-/*My styles*/
+/*
+
+My styles
+
+*/
 
 
 
@@ -65,23 +69,26 @@ ul, ol {
     #contacts ul {
         display: flex;
         flex-wrap: nowrap;
-        /*justify-content: lef;*/
     }
 
     #contacts img {
         width: 100px;
     }
 
+    #languages{
+        font-size: 200%;
+    }
+
     footer {
         display: flex;
-        position: absolute;
-        bottom: 1%;
+        position: fixed;
+        bottom: 0;
         justify-content: space-between;
-        width: 100vw;
+        width: 100%;
         align-items: center;
         padding: 2%;
         box-sizing: border-box;
-        /*overflow-x: hidden;*/
+        background: url("assets/background.jpg") no-repeat;
     }
     #languages {
         height: fit-content;
