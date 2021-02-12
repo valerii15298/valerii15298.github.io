@@ -128,20 +128,24 @@ My styles
     }
 
     #header-content {
-        bottom: -6%;
+        margin-top: -10%;
     }
 
     #hello {
-        bottom: -25%;
+        margin-bottom: 5%;
+    }
+    #hello > h1 {
+        display: flex;
+        align-items: center;
+    }
+    #hello > h1 img {
+        margin: auto;
     }
 
     .card {
         text-align: center;
-        position: absolute;
 
         margin: auto;
-        left: 0;
-        right: 0;
 
 
         width: fit-content;
@@ -163,7 +167,6 @@ My styles
     body > header {
         width: 100%;
         padding-top: 4%;
-        position: relative;
         font-size: 300%;
     }
 }
