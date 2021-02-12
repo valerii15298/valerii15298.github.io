@@ -55,15 +55,27 @@ ul, ol {
 
 /*My styles*/
 
+#contacts ul {
+    display: inline-flex;
+    flex-wrap: nowrap;
+    justify-content: left;
+}
+
+#contacts img {
+    width: 100px;
+}
 
 
-@media screen {
+
+
+@media screen and (max-width: 70em) {
     body {
         /*display: flex;*/
         /*justify-content: center;*/
         /*align-items: center;*/
         /*height: 100vh;*/
-        background: url("assets/background.jpg");
+        background: url("assets/background.jpg") no-repeat fixed;
+        background-size: 100vw 100vh;
     }
 
 
